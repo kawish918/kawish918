@@ -1,5 +1,3 @@
-<h1 align="center">I'm Kawish Hassan</h1>
-<h3 align="center">Programmer</h3>
 
 
 
