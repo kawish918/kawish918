@@ -3,7 +3,7 @@
 
 <p align="center">
   I build intelligent systems that solve real-world problems.<br>
-  I know how to use AI — from training machine learning models to integrating them into real applications.
+  I know how to use AI, from training machine learning models to integrating them into real applications.
 </p>
 
 <p align="center">
