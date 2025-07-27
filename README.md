@@ -1,8 +1,14 @@
-<h1 align="center">I'm Kawish Hassan</h1>
-<h3 align="center">Programmer</h3>
+<h1 align="center">Hi, I'm Kawish Hassan 👋</h1>
+<h3 align="center">Programmer | AI Enthusiast | Problem Solver</h3>
 
+<p align="center">
+  I build intelligent systems that solve real-world problems.<br>
+  I know how to use AI — from training machine learning models to integrating them into real applications.
+</p>
 
-- 📫 How to reach me **kawish918@gmail.com**
+<p align="center">
+  📫 Reach me at: <a href="mailto:kawish918@gmail.com">kawish918@gmail.com</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
