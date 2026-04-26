@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kawish Hassan 👋</h1>
+
 <p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build intelligent systems that solve real-world problems. 
-  Expertise ranges from training complex machine learning models to deploying them into production-ready applications.
+  I build intelligent systems that solve real-world problems. Expertise ranges from training complex machine learning models to deploying them into production-ready applications.
 </p>
 
 <p align="center">
