@@ -63,12 +63,27 @@ A multi-agent Python debugging assistant built on LangChain + Ollama (Llama 3.2)
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/kawish918/CritiqueChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kawish918&repo=CritiqueChain&theme=default&hide_border=true" /></a>
-  <a href="https://github.com/kawish918/personReIdentification_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kawish918&repo=personReIdentification_AI&theme=default&hide_border=true" /></a>
-</p>
+### 🍕 CritiqueChain
+An interactive question-answering bot for a pizza restaurant. Uses LangChain, Ollama-served LLMs, and ChromaDB to answer customer questions grounded in realistic review data.
+
+`LangChain` `Ollama` `ChromaDB`
+&nbsp;·&nbsp; [View repo →](https://github.com/kawish918/CritiqueChain)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧍 Person Re-Identification
+A person re-identification pipeline built in PyTorch with a ResNet-18 backbone for matching identities across camera views.
+
+`PyTorch` `ResNet-18` `Computer Vision`
+&nbsp;·&nbsp; [View repo →](https://github.com/kawish918/personReIdentification_AI)
+
+</td>
+</tr>
+</table>
 
 <br>
 
